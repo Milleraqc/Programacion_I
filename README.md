@@ -15,6 +15,7 @@ Programación I no solo enseña a "escribir código", sino que desarrolla la ló
 Contiene el material de clases de programación en Python hecho en Google Colab.
 
 <div align="center">
+	
 | Título | Temas | Enlace |
 | ------ | ------- | ------ |
 | __Introducción a *Python*__ | Variables | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
@@ -25,6 +26,16 @@ Contiene el material de clases de programación en Python hecho en Google Colab.
 
 </div>
 
+<div align="center">
+
+| Título | Temas | Enlace |
+| ------ | ------- | ------ |
+| __Introducción a _Python___ | Variables | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jdarguello/Desarrollo_software/blob/master/Python/Colab/VariablesPython.ipynb) |
+| __Condicionales__ | Estructuras if-elif-else | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jdarguello/Desarrollo_software/blob/master/Python/Colab/CondicionalesPython.ipynb) |
+| __Bucles__ | Ciclos for y while | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jdarguello/Desarrollo_software/blob/master/Python/Colab/CiclosPython.ipynb) |
+
+
+</div>
 
 ### __Herramientas__
 
