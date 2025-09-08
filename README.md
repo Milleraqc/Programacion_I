@@ -6,6 +6,15 @@
 
 <p>
 La materia de Programación I es una asignatura fundamental que introduce a los estudiantes en los conceptos esenciales del pensamiento computacional. El curso abarca desde los fundamentos teóricos hasta la aplicación práctica, sentando las bases para el desarrollo de software. 
+<br>
+
+<strong>Temas Abordados:</strong> 
+
+1. Algoritmos: El curso inicia con la definición y el diseño de algoritmos, que son la secuencia lógica de pasos para resolver un problema.  Se enfatiza la importancia de la claridad y la eficiencia en su creación.
+2. Estructuras de datos: Se estudian estructuras básicas como arreglos y listas, que permiten organizar y manipular datos de manera eficiente.
+3. Estructuras de control: Los estudiantes aprenden a manejar el flujo de ejecución de un programa mediante estructuras de control, incluyendo bucles (for, while) y condicionales (if/else), que son cruciales para tomar decisiones dentro del código.
+4. Funciones: Un componente vital del curso es el uso de funciones para modularizar el código. Esto promueve la reutilización, facilita la lectura y reduce la complejidad de los programas.
+5. Matrices: Finalmente, se introducen las matrices, que son arreglos bidimensionales, y se exploran sus aplicaciones en problemas que requieren el manejo de datos en forma de tabla o cuadrícula, como en el álgebra lineal o el procesamiento de imágenes.
 
 Programación I no solo enseña a "escribir código", sino que desarrolla la lógica de pensamiento necesaria para abordar y solucionar problemas de manera sistemática y estructurada, preparando a los estudiantes para cursos más avanzados en su carrera de pregrado de Matemáticas Aplicada.
 </p>
