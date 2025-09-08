@@ -3,10 +3,11 @@
 	<strong>Hecho por:</strong> Miller Alexander Quiroga Campos
 </div>
 
+<p>
 La materia de Programación I es una asignatura fundamental que introduce a los estudiantes en los conceptos esenciales del pensamiento computacional. El curso abarca desde los fundamentos teóricos hasta la aplicación práctica, sentando las bases para el desarrollo de software. 
 
 Programación I no solo enseña a "escribir código", sino que desarrolla la lógica de pensamiento necesaria para abordar y solucionar problemas de manera sistemática y estructurada, preparando a los estudiantes para cursos más avanzados en su carrera de pregrado de Matemáticas Aplicada.
-
+</p>
 
 ## __Material interactivo__
 
