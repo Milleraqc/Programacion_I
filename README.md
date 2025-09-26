@@ -30,7 +30,8 @@ Contiene el material de clases de programación en Python hecho en Google Colab.
 | __Introducción a *Python*__ | Variables | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1hXwGcHaNzv4hcZWw7i6ZHc1Mn3ihibvP/view?usp=sharing) |
 | __Estructura de Datos__ | Colecciones -> listas, tuplas, diccionarios, conjuntos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10oIlXVfklJKTDvJqe384pI721v9FsgWT/view?usp=sharing) |
 | __Condicionales__ | Estructuras if-elif-else | [![Abrir PDF](https://img.shields.io/badge/PDF-Drive-red)](https://drive.google.com/file/d/1z2czYu6GlpsqGlWk1jIqIQaBRHHQs6OC/view?usp=sharing) |
-| __Bucles__ | Ciclos for y while | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| __Bucles__ | Ciclos while | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1yPLYiuYx83GWL-UPx7kuhoKd1-7XBRRT/view?usp=sharing) |
+| __Bucles__ | Ciclos for | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
 | __Funciones__ | Funciones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
 | __Matrices__ | Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
 
