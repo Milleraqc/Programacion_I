@@ -34,8 +34,8 @@ Contiene el material de clases de programación en Python hecho en Google Colab.
 | __Bucles__ | Ciclos for | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hz7QBd4qnb2JbnlOo0Now64m7uHJ4SrV/view?usp=sharing) |
 | __Bucles__ | Ciclos for | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hz7QBd4qnb2JbnlOo0Now64m7uHJ4SrV/view?usp=sharing) |
 | __Matrices - Numpy__ | Utilizar Numpy para Matrices | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Burfuo4SSFjM3xpMhfs51Jxrlkr5ImW4/view?usp=sharing)|
-| __Funciones__ | Funciones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| __Errores y Excepciones__ | try: except | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
+| __Funciones__ | Funciones | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/15w9N0ApckN2DjnMGzc7Skplvug5KqpdK/view?usp=sharing) |
+| __Errores y Excepciones__ | try: except | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1n7OSthD36MJNqGD-nUx8Mh_uxEaxrBh8/view?usp=drive_link)|
 
 </div>
 
