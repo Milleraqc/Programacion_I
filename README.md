@@ -156,7 +156,7 @@ Desarrollar un sistema bancario en consola que permita gestionar clientes y sus 
 
 # PROYECTO FINAL: RED ACADÉMICA UNIVERSITARIA  
 **Curso:** Programación en Python  
-**Profesor:** Charlie  
+**Profesor:** Miller Alexander Quiroga Campos
 **Duración estimada:** 2 semanas  
 **Modalidad:** Individual o en parejas  
 
